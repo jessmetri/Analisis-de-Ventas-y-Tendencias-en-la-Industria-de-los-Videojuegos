@@ -45,15 +45,15 @@ Calificaciones: Correlación positiva entre puntuaciones de críticos y ventas
 Ciclo de vida de plataformas: Las ventas siguen patrones predecibles según la madurez de la consola
 
 # Conclusiones
-La industria muestra ciclos claros con periodos de crecimiento, saturación y consolidación
+* La industria muestra ciclos claros con periodos de crecimiento, saturación y consolidación
 
-Las preferencias regionales son significativas y deben considerarse en estrategias de lanzamiento
+* Las preferencias regionales son significativas y deben considerarse en estrategias de lanzamiento
 
-La calidad (medida por calificaciones) influye en el éxito comercial, pero no es el único factor determinante
+* La calidad (medida por calificaciones) influye en el éxito comercial, pero no es el único factor determinante
 
-El análisis histórico proporciona insights valiosos para predecir tendencias futuras y orientar decisiones de desarrollo y marketing
+* El análisis histórico proporciona insights valiosos para predecir tendencias futuras y orientar decisiones de desarrollo y marketing
 
-La limpieza y preparación de datos es crucial para obtener conclusiones confiables, como demostró el proceso de imputación de años de lanzamiento faltantes
+* La limpieza y preparación de datos es crucial para obtener conclusiones confiables, como demostró el proceso de imputación de años de lanzamiento faltantes
 
-Este proyecto sirve como base para análisis predictivos más avanzados y estrategias data-driven en la industria del gaming.
+* Este proyecto sirve como base para análisis predictivos más avanzados y estrategias data-driven en la industria del gaming.
 
